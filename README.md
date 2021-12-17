@@ -6,7 +6,9 @@ This script helps you to create a history-batch file `.mpv.bat` in the video fol
 Note that this script works only on windows because it's a (.bat) file, and you can make it work on any system just by changing the syntax
 
 ![Ep-history.lua](./res/batch-file.png)
+
 ![tv-shows](./res/tv-shows.png)
+
 Like the screenshot, you can create a shortcut of the batch file change its name and icon then put it anywhere your system.
 
 In order to resume from the exact point of the watching progress in target episode, you just need to add a line in the mpv.conf
